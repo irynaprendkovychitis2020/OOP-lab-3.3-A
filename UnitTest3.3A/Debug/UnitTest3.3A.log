@@ -1,0 +1,5 @@
+﻿  pch.cpp
+  UnitTest3.3A.cpp
+C:\Users\computer\Desktop\2 семестр\ООП\лаб 3\лаб 3,3\lab 3.3 A\UnitTest3.3A\UnitTest3.3A.cpp(16,13): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+     Создается библиотека C:\Users\computer\Desktop\2 семестр\ООП\лаб 3\лаб 3,3\lab 3.3 A\Debug\UnitTest3.3A.lib и объект C:\Users\computer\Desktop\2 семестр\ООП\лаб 3\лаб 3,3\lab 3.3 A\Debug\UnitTest3.3A.exp
+  UnitTest3.3A.vcxproj -> C:\Users\computer\Desktop\2 семестр\ООП\лаб 3\лаб 3,3\lab 3.3 A\Debug\UnitTest3.3A.dll
